@@ -5,13 +5,13 @@
 Categoria;Nome;Descrição;Preço;Etiquetas;Esgotado
 Cafetaria / Cafeteria;Café ;Coffee;0,9;;
 Cafetaria / Cafeteria;Descafeinado;Decaffeinated;0,9;;
-Cafetaria;Copo de Leite;Glass of milk;1,2;;
-Cafetaria;Carioca de Limão;Carioca Lemon;0,75;;
-Cafetaria;Chá;Tea;0,85;;
-Cafetaria;Garoto;Small latte;0,8;;
-Cafetaria;Galão;Gallon;1,4;;
-Cafetaria;Leite Achocolatado;Chocolate milk;1,5;;
-Cafetaria;Meia de Leite;Coffee with milk;1,2;;
+Cafetaria / Cafeteria;Copo de Leite;Glass of milk;1,2;;
+Cafetaria / Cafeteria;Carioca de Limão;Carioca Lemon;0,75;;
+Cafetaria / Cafeteria;Chá;Tea;0,85;;
+Cafetaria / Cafeteria;Garoto;Small latte;0,8;;
+Cafetaria / Cafeteria;Galão;Gallon;1,4;;
+Cafetaria / Cafeteria;Leite Achocolatado;Chocolate milk;1,5;;
+Cafetaria / Cafeteria;Meia de Leite;Coffee with milk;1,2;;
 Pastelaria / Bakery;Bolos Variados;Various Cakes;1,2;Contem gluten, ovos, leite, frutos de casca rija;
 Pastelaria / Bakery;Pastel de Nata;Pastel de Nata;0,9;Contem gluten, ovos, leite;
 Pastelaria / Bakery;Napolitana;Napolitana with chocolate;0,9;Contem gluten, ovos, leite;
