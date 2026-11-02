@@ -4,7 +4,9 @@
 #moeda;€;;;;
 Categoria;Nome;Descrição;Preço;Etiquetas;Esgotado
 Cafetaria / Cafeteria;Café ;Coffee;0,9;;
+Cafetaria / Cafeteria;Café Duplo;Double coffee;1,8;;
 Cafetaria / Cafeteria;Descafeinado;Decaffeinated;0,9;;
+Cafetaria / Cafeteria;Abatanado;;1,2;;
 Cafetaria / Cafeteria;Copo de Leite;Glass of milk;1,2;;
 Cafetaria / Cafeteria;Carioca de Limão;Carioca Lemon;0,75;;
 Cafetaria / Cafeteria;Chá;Tea;0,85;;
@@ -55,5 +57,5 @@ Bebidas / Drinks;Panaché;Panache;1,2;Bebida com Alcool / drink with alcool;
 Bebidas / Drinks;Copo de Vinho Branco;Glass of white wine;0,7;Bebida com Alcool / drink with alcool;
 Bebidas / Drinks;Copo de Vinho Tinto;Glass of red wine;0,7;Bebida com Alcool / drink with alcool;
 Bebidas / Drinks;Martini mini;Small Martini;1,2;Bebida com Alcool / drink with alcool;
-Bebidas / Drinks;Martini c/ cerveja;Martini with beer;2,5;Bebida com Alcool / drink with alcool;
+Bebidas / Drinks;Martini c/ cerveja;Martini with beer;2;Bebida com Alcool / drink with alcool;
 Bebidas / Drinks;Favaios mini;Small Favaios;1,5;Bebida com Alcool / drink with alcool;
